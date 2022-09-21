@@ -1,9 +1,0 @@
-steps:
-  - id: dataform
-    name: node
-    entrypoint: sh
-    args:
-    - '-c'
-    - | 
-        npm i -g --quiet @dataform/cli\
-        && sh deploy.sh

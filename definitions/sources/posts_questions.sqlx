@@ -1,7 +1,0 @@
-config {
-  type: "declaration",
-  database: "andresousa--xyz-experimental",
-  schema: "stackoverflow",
-  name: "posts_questions",
-  description: "raw posts_questions table"
-}
